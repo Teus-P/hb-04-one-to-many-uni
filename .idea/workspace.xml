@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b658ca00-10cf-415c-96de-02a7e7aae779" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hb_student_tracker: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hb_student_tracker: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="student: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xbj2hS0teBDwQAZHJolP1aciAx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580845389224" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hb-05-many-to-many" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mateonidas\IdeaProjects\hibernate-tutorial\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.com.hibernate.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects" />
+      <recent name="D:\IdeaProjects\" />
+      <recent name="C:\Users\Mateonidas\IdeaProjects\hibernate-tutorial" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestJdbc">
+    <configuration name="CreateCoursesAndReviewsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.hibernate.demo.CreateCoursesAndReviewsDemo" />
+      <module name="hb-04-one-to-many-uni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteCoursesAndReviewsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.hibernate.demo.DeleteCoursesAndReviewsDemo" />
+      <module name="hb-04-one-to-many-uni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FetchJoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.hibernate.demo.FetchJoinDemo" />
+      <module name="hb-03-one-to-many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetCoursesAndReviewsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.hibernate.demo.GetCoursesAndReviewsDemo" />
+      <module name="hb-04-one-to-many-uni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jdbc.TestJdbc" />
+      <module name="hb-04-one-to-many-uni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestJdbc" />
+        <item itemvalue="Application.DeleteCoursesAndReviewsDemo" />
+        <item itemvalue="Application.GetCoursesAndReviewsDemo" />
+        <item itemvalue="Application.CreateCoursesAndReviewsDemo" />
+        <item itemvalue="Application.FetchJoinDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b658ca00-10cf-415c-96de-02a7e7aae779" name="Default Changelist" comment="" />
+      <created>1580319501544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580319501544</updated>
+      <workItem from="1580319505391" duration="3225000" />
+      <workItem from="1580742278758" duration="2306000" />
+      <workItem from="1580843050616" duration="2392000" />
+      <workItem from="1581321485671" duration="40000" />
+      <workItem from="1582050890032" duration="681000" />
+      <workItem from="1582051649294" duration="3346000" />
+      <workItem from="1582061488989" duration="347000" />
+      <workItem from="1582135173512" duration="393000" />
+      <workItem from="1582135607414" duration="1780000" />
+      <workItem from="1582290789706" duration="3917000" />
+      <workItem from="1582369893021" duration="1538000" />
+      <workItem from="1582372755593" duration="1804000" />
+      <workItem from="1582652515552" duration="509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2597" y="187" key="#CreateDemo" timestamp="1582136516837">
+      <screen x="1920" y="3" width="1920" height="1050" />
+    </state>
+    <state x="2597" y="187" key="#CreateDemo/0.0.1920.1050/1920.3.1920.1050@1920.3.1920.1050" timestamp="1582136516837" />
+    <state x="552" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582369935774">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1582369935774" />
+    <state x="765" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1582373157141">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2685" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.3.1920.1050@1920.3.1920.1050" timestamp="1582135698126" />
+    <state x="765" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1582373157141" />
+    <state x="2660" y="284" key="FileChooserDialogImpl" timestamp="1582653022995">
+      <screen x="1920" y="3" width="1920" height="1050" />
+    </state>
+    <state x="2660" y="284" key="FileChooserDialogImpl/0.0.1920.1050/1920.3.1920.1050@1920.3.1920.1050" timestamp="1582653022995" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1582653024175">
+      <screen x="1920" y="3" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.3.1920.1050@1920.3.1920.1050" timestamp="1582653024175" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582375104486" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1582653024175">
+      <screen x="1920" y="3" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1050/1920.3.1920.1050@1920.3.1920.1050" timestamp="1582653024175" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582375104485" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1582653024175">
+      <screen x="1920" y="3" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1050/1920.3.1920.1050@1920.3.1920.1050" timestamp="1582653024175" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582375104485" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1582653024175">
+      <screen x="1920" y="3" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1050/1920.3.1920.1050@1920.3.1920.1050" timestamp="1582653024175" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582375104486" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1582370480673">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582370480673" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1582370480673">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582370480673" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1582370480673">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582370480673" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1582370480673">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582370480673" />
+    <state x="2360" y="103" key="SettingsEditor" timestamp="1582051984043">
+      <screen x="1920" y="3" width="1920" height="1050" />
+    </state>
+    <state x="2360" y="103" key="SettingsEditor/0.0.1920.1050/1920.3.1920.1050@1920.3.1920.1050" timestamp="1582051984043" />
+    <state x="440" y="100" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1581321502840" />
+    <state x="1920" y="3" width="1920" height="1050" key="com.intellij.ide.util.TipDialog" timestamp="1582652517895">
+      <screen x="1920" y="3" width="1920" height="1050" />
+    </state>
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.3.1920.1050@0.0.1920.1050" timestamp="1582050890933" />
+    <state x="1920" y="3" width="1920" height="1050" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.3.1920.1050@1920.3.1920.1050" timestamp="1582652517895" />
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1582369928036" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1582292981588">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1582292981588" />
+  </component>
+</project>
